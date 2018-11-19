@@ -1,0 +1,12 @@
+com\developer\SpringMySQL\controllers\MainController.class
+com\developer\SpringMySQL\SpringMySqlApplication.class
+com\developer\SpringMySQL\models\AppEnfermedadesRepo.class
+com\developer\SpringMySQL\models\AppDistrito.class
+com\developer\SpringMySQL\controllers\EnfermedadesController.class
+com\developer\SpringMySQL\models\AppUsers.class
+com\developer\SpringMySQL\models\AppEnfermedades.class
+com\developer\SpringMySQL\models\AppHospitalesRepo.class
+com\developer\SpringMySQL\models\AppHospitales.class
+com\developer\SpringMySQL\controllers\HospitalesController.class
+com\developer\SpringMySQL\models\AppDistritosRepo.class
+com\developer\SpringMySQL\models\AppUsersRepo.class

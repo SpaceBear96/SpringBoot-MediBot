@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMySQL
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Junior
+Implementation-Vendor-Id: com.developer
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/SpringMySQL/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.developer.SpringMySQL.SpringMySqlApplication
+
